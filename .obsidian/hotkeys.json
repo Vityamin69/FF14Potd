@@ -1,0 +1,10 @@
+{
+  "app:toggle-default-new-pane-mode": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "6534e9de8125976f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1830c45934153484",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Palace of the Dead/Palace of the Dead.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "afbcce89ab44b48f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dc79b7ac0e137d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ae5878bee7951d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c573465bfea82f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d307965173c95956",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d107b8ab9c5ab322",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ed4fd530d728b98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b3e72b2d4b650f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Palace of the Dead/Palace of the Dead.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f8ca75031e87921",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "f7a4341d7251317b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286,
+    "collapsed": true
+  },
+  "active": "1830c45934153484",
+  "lastOpenFiles": [
+    "Palace of the Dead/Palace of the Dead.md",
+    "Palace of the Dead/161-170.md",
+    "Palace of the Dead/160.md",
+    "Palace of the Dead/Disclaimer.md",
+    "Palace of the Dead/100.md",
+    "201-200.md",
+    "Palace of the Dead/170.md",
+    "Palace of the Dead/130.md",
+    "Palace of the Dead/180.md",
+    "Palace of the Dead/140.md"
+  ]
+}

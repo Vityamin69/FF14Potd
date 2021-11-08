@@ -5,7 +5,7 @@ Palace of the Dead for the fellas
 
 Download and install Obsidian from https://obsidian.md/
 
-In this github Click on Code -> Download ZiP
+In this github click on Code -> Download ZiP
 
 Unzip anywhere on your computer
 

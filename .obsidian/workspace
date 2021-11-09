@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Palace of the Dead/181-190.md",
+            "file": "Palace of the Dead/Palace of the Dead.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Palace of the Dead/181-190.md",
+                "file": "Palace of the Dead/Palace of the Dead.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "1830c45934153484",
   "lastOpenFiles": [
-    "Palace of the Dead/181-190.md",
-    "Palace of the Dead/151-160.md",
-    "Palace of the Dead/110.md",
     "Palace of the Dead/Palace of the Dead.md",
-    "Palace of the Dead/161-170.md",
-    "Palace of the Dead/160.md",
+    "README.md",
     "Palace of the Dead/Disclaimer.md",
-    "Palace of the Dead/100.md",
-    "201-200.md",
-    "Palace of the Dead/170.md"
+    "Palace of the Dead/190.md",
+    "Palace of the Dead/120.md",
+    "Palace of the Dead/170.md",
+    "Palace of the Dead/200.md",
+    "Palace of the Dead/181-190.md",
+    "Palace of the Dead/161-170.md",
+    "Palace of the Dead/151-160.md"
   ]
 }
